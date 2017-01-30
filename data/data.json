@@ -8,8 +8,8 @@
 		"Message" : "Thanks for your awesome snowboard lessons, thanks for your commitment to the Emerging Experiences team and thanks for the nerdy atmosphere you brought to the office! I wish you all the best and a great time at Microsoft!",
 		"Attachments" : [
 			{
-				"url" : "https://raw.githubusercontent.com/toastedtoast/farewell/master/media/audio/Danke.mp3",
-				"type" : "audio/mpeg3;audio/x-mpeg-3;video/mpeg;video/x-mpeg;text/xml"
+				"url" : "https://raw.githubusercontent.com/toastedtoast/farewell/master/media/video/Danke.mp4",
+				"type" : "video/mov"
 			}
 		]
 	},
@@ -64,8 +64,8 @@
 		"Message" : "have a great farewell and an even greater time @ microsoft. never forget our song and try to top this departure :D : https://www.youtube.com/watch?v=Cfnpf_-rUyM",
 		"Attachments" : [
 			{
-				"url" : "https://raw.githubusercontent.com/toastedtoast/farewell/master/media/audio/Danke.mp3",
-				"type" : "audio/mpeg"
+				"url" : "https://raw.githubusercontent.com/toastedtoast/farewell/master/media/video/Danke.mp4",
+				"type" : "video/mov"
 			}
 		]
 	},
