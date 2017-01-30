@@ -1,10 +1,20 @@
 [
 	{
+		"Name" : "Rolf Borcherding",
+		"Message" : "Sweet memories :)\n\nAlles Gute Dirk:\n\nNever stop exploring new experiences!",
+		"Attachments" : [
+			{
+				"url" : "https://raw.githubusercontent.com/toastedtoast/farewell/master/media/images/Rolf.gif",
+				"type" : "image/gif"
+			}
+		]
+	},
+	{
 		"Name" : "Marco Köppel",
 		"Message" : "Dude, Microsoft! It really is the greatest of options for leaving. It really is. But I will miss you. Definitely. You’ve always been a great mentor, a perfect discussion partner for anything tech and culture, a reliable enabler and most of all a good friend. I am pretty sure that I will never forget the early stages of Audi City and you live-fixing “HAL”. Thank you.",
 		"Attachments" : [
 			{
-				"url" : "https://raw.githubusercontent.com/toastedtoast/farewell/master/media/images/marco.jpg",
+				"url" : "https://raw.githubusercontent.com/toastedtoast/farewell/master/media/images/Marco.jpg",
 				"type" : "image/jpeg"
 			}
 		]
