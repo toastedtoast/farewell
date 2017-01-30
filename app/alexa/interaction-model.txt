@@ -1,0 +1,34 @@
+{
+  "intents": [
+    {
+      "intent": "Hello"
+    },
+    {
+      "intent": "Random"
+    },
+    {
+      "intent": "FarewellByName",
+      "slots": [
+        {
+          "name": "name",
+          "type": "AMAZON.DE_FIRST_NAME"
+        }
+      ]
+    }
+  ]
+}
+
+Hello hallo
+Hello hello
+Hello hi
+Hello Guten Tag
+
+Random nach einer zufälligen Nachricht
+Random irgendeine
+Random zufällig
+
+FarewellByName was hat {name} gesagt
+FarewellByName was sagt {name}
+FarewellByName der Wunsch von {name}
+FarewellByName nach {name}
+FarewellByName von {name}
