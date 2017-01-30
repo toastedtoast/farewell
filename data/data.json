@@ -139,13 +139,7 @@
 	},
 	{
 		"Name" : "Katharina Boepple",
-		"Message": "Alles Gute für dich Dirk :)",
-		"Attachments" : [
-			{
-				"url" : "https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif",
-				"type" : "image/gif"
-			}
-		]
+		"Message": "Alles Gute für dich Dirk :) https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif"
 	},
 	{
 		"Name" : "Olivier Goethals",
