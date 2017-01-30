@@ -64,7 +64,7 @@
 		"Message" : "have a great farewell and an even greater time @ microsoft. never forget our song and try to top this departure :D : https://www.youtube.com/watch?v=Cfnpf_-rUyM",
 		"Attachments" : [
 			{
-				"url" : "https://raw.githubusercontent.com/toastedtoast/farewell/master/media/video/Danke.mov",
+				"url" : "http://www.elprogramador.de/farewell_dirk/Danke.mov",
 				"type" : "video/mov"
 			}
 		]
@@ -77,7 +77,7 @@
 		"Name" : "Mato Vujic",
 		"Attachments" : [
 			{
-				"url" : "https://raw.githubusercontent.com/toastedtoast/farewell/master/media/video/Mato.mp4",
+				"url" : "http://www.elprogramador.de/farewell_dirk/Mato.mp4",
 				"type" : "video/mp4"
 			}
 		]
@@ -118,7 +118,7 @@
 		"Name" : "Ulf Hyltmark",
 		"Attachments" : [
 			{
-				"url" : "https://raw.githubusercontent.com/toastedtoast/farewell/master/media/video/Ulf.mp4",
+				"url" : "http://www.elprogramador.de/farewell_dirk/Ulf.mp4",
 				"type" : "video/mp4"
 			}
 		]
