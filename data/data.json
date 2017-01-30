@@ -8,7 +8,7 @@
 		"Message" : "Thanks for your awesome snowboard lessons, thanks for your commitment to the Emerging Experiences team and thanks for the nerdy atmosphere you brought to the office! I wish you all the best and a great time at Microsoft!",
 		"Attachments" : [
 			{
-				"url" : "http://elprogramador.de/farewell_dirk/Danke.mp3",
+				"url" : "https://raw.githubusercontent.com/toastedtoast/farewell/master/media/audio/Danke.mp3",
 				"type" : "audio/mpeg3;audio/x-mpeg-3;video/mpeg;video/x-mpeg;text/xml"
 			}
 		]
@@ -34,7 +34,7 @@
 		"Message" : "Hey Dirk, danke für schöne Zeiten und Momente. Hat Spaß gemacht mit dir. Alles Gute und bis bald. Übrigens, im Sommer auf dem Flugfeld soll es sich auch hervorragend trinken lassen; hab ich so gehört.",
 		"Attachments" : [
 			{
-				"url" : "http://elprogramador.de/farewell_dirk/Alex.png",
+				"url" : "https://raw.githubusercontent.com/toastedtoast/farewell/master/media/images/Alex.png",
 				"type" : "image/jpeg"
 			}
 		]
@@ -64,7 +64,7 @@
 		"Message" : "have a great farewell and an even greater time @ microsoft. never forget our song and try to top this departure :D : https://www.youtube.com/watch?v=Cfnpf_-rUyM",
 		"Attachments" : [
 			{
-				"url" : "http://elprogramador.de/farewell_dirk/Danke.mp3",
+				"url" : "https://raw.githubusercontent.com/toastedtoast/farewell/master/media/audio/Danke.mp3",
 				"type" : "audio/mpeg"
 			}
 		]
@@ -77,7 +77,7 @@
 		"Name" : "Mato Vujic",
 		"Attachments" : [
 			{
-				"url" : "http://elprogramador.de/farewell_dirk/Mato.mp4",
+				"url" : "https://raw.githubusercontent.com/toastedtoast/farewell/master/media/video/Mato.mp4",
 				"type" : "video/mp4"
 			}
 		]
@@ -118,7 +118,7 @@
 		"Name" : "Ulf Hyltmark",
 		"Attachments" : [
 			{
-				"url" : "http://elprogramador.de/farewell_dirk/Ulf.mp4",
+				"url" : "https://raw.githubusercontent.com/toastedtoast/farewell/master/media/video/Ulf.mp4",
 				"type" : "video/mp4"
 			}
 		]
@@ -177,7 +177,7 @@
 		"Name" : "Carina Neumann",
 		"Attachments" : [
 			{
-				"url": "http://elprogramador.de/farewell_dirk/Carina.jpeg",
+				"url": "https://raw.githubusercontent.com/toastedtoast/farewell/master/media/images/Carina.jpeg",
 				"type" : "image/jpg"
 			}
 		]
@@ -186,7 +186,7 @@
 		"Name" : "Anne Schoemig",
 		"Attachments" : [
 			{
-				"url": "http://elprogramador.de/farewell_dirk/Anne.jpeg",
+				"url": "https://raw.githubusercontent.com/toastedtoast/farewell/master/media/images/Anne.jpeg",
 				"type" : "image/jpg"
 			}
 		]
@@ -195,7 +195,7 @@
 		"Name" : "Nico Zimmermann",
 		"Attachments" : [
 			{
-				"url": "http://elprogramador.de/farewell_dirk/Nico.jpeg",
+				"url": "https://raw.githubusercontent.com/toastedtoast/farewell/master/media/images/Nico.jpeg",
 				"type" : "image/jpg"
 			}
 		]
@@ -205,14 +205,14 @@
 		"Message": "Hey Dirk! I thoroughly enjoyed our time working together on Audi City including our daily trip to pick up a case of Lagerbier Helles each morning and our epic foosball (Fußball?) battles. Good luck in your roll at Microsoft Ð I imagine we’ll be crossing paths plenty in the future!",
 		"Attachments" : [
 			{
-				"url": "http://elprogramador.de/farewell_dirk/Steven.jpeg",
+				"url": "https://raw.githubusercontent.com/toastedtoast/farewell/master/media/images/Steven.jpeg",
 				"type" : "image/jpg"
 			}
 		]
 	},
 	{
 		"Name" : "Hagen Seidel",
-		"Message": "Dear Fish,\n\nI am on parental leave and will back on the 30th of January 2017.\n\nIf you need to contact me urgently, please text me: 0177-3201672. I will get back to you as soon as possible.\n\nHagen"
+		"Message": "Dear Dirk,\n\nThanks a lot for the uncountable sparings. It was always possible to get your helpful support and advise. You shaped and influenced Razorfish a lot!\n\nHagen"
 	},
 	{
 		"Name" : "Chrizz Gelbach",
